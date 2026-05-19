@@ -1,6 +1,8 @@
 {
-  "name": "Wyslider Venom Redirect",
-  "description": "An application that automatically redirects to the wyslider-venom.base44.app website.",
+  "name": "WySlider Venom",
+  "description": "The AI production engine for serious YouTube creators. Go from idea to complete video pack in under 60 seconds.",
   "requestFramePermissions": [],
-  "majorCapabilities": []
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
